@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Convert camelcase-to-space",
+        "command": "camelcase-to-space:convert"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "camelcase-to-space",
+          "submenu": [
+            {
+              "label": "Convert",
+              "command": "camelcase-to-space:convert"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
