@@ -3,6 +3,7 @@ An Atom plugin that converts camel case text to normal readable text.
 
 ## Examples
 `HelloWorld` to `Hello world`
+
 `someTextThatShouldBeReadable` to `Some text that should be readable`
 
 ## How to use
