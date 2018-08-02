@@ -1,14 +1,18 @@
 {
   "name": "camelcase-to-space",
   "main": "./lib/camelcase-to-space",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "An Atom plugin that converts camel case text to normal readable text",
   "keywords": [
+    "camelcase",
+    "covert text",
+    "readable text",
+    "atom plugin"
   ],
   "activationCommands": {
     "atom-workspace": "camelcase-to-space:convert"
   },
-  "repository": "https://github.com/atom/camelcase-to-space",
+  "repository": "https://github.com/tomhah/camelcase-to-space",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
