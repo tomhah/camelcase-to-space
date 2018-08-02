@@ -1,7 +1,7 @@
 {
   "name": "camelcase-to-space",
   "main": "./lib/camelcase-to-space",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An Atom plugin that converts camel case text to normal readable text",
   "keywords": [
     "camelcase",
@@ -17,6 +17,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
